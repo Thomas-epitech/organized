@@ -1,4 +1,4 @@
-# Organized
+# {EPITECH} Organized Project
 
 A C program that implements a workshop management system for organizing different types of hardware materials using linked lists and sorting algorithms.
 
